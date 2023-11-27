@@ -1,0 +1,20 @@
+{
+  "name": "nodejswebapplication",
+  "version": "1.0.0",
+  "description": "NodeJS Rest API Backend Service",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "nodemon server.js"
+  },
+  "author": "18Lonely",
+  "license": "ISC",
+  "keywords": [
+    "NodeJS",
+    "RestAPI",
+    "Service"
+  ],
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
